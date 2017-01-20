@@ -39,7 +39,7 @@
   "devDependencies": {
     "chai": "^3.0.0",
     "cmdify": "^0.0.4",
-    "eslint": "^3.10.2",
+    "eslint": "^3.14.0",
     "eslint-config-xo-space": "^0.15.0",
     "gulp": "^3.9.0",
     "gulp-coveralls": "^0.1.0",
