@@ -15,6 +15,8 @@ inquirer.prompt([
       'Make a reservation',
       new inquirer.Separator(),
       'Ask for opening hours',
+      'Ask for a refund',
+      'JJK whoa tricky',
       {
         name: 'Contact support',
         disabled: 'Unavailable at this time'
